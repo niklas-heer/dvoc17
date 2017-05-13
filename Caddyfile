@@ -1,0 +1,4 @@
+caddy1.we-host.de {
+    tls niklas.heer@gmail.com
+    root /srv
+}
